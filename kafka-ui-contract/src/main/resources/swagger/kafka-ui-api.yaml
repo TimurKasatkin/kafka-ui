@@ -3277,6 +3277,8 @@ components:
         - PAUSED
         - UNASSIGNED
         - TASK_FAILED
+        - STOPPED
+        - RESTARTING
 
     ConnectorAction:
       type: string
